@@ -16,7 +16,7 @@ export default function Home(props) {
 
           
           <div>
-           <Carousel style={{width: "60vw", margin:'auto'}}>
+           <Carousel style={{width: "50vw", margin:'auto'}}>
               <Carousel.Item>
                 <img
                   className="d-block w-100"
